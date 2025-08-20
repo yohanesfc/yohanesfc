@@ -1,9 +1,4 @@
 ## Hi there 👋
-![GitHub Snake Light](https://raw.githubusercontent.com/yohanesfc/yohanesfc/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/yohanesfc/yohanesfc/output/github-snake-dark.svg#gh-dark-mode-only)
-
-
-
 <!--
 **yohanesfc/yohanesfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
